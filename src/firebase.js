@@ -6,7 +6,7 @@ const firebaseConfig = {
   authDomain: "thinkpiece-4fd73.firebaseapp.com",
   databaseURL: "https://thinkpiece-4fd73.firebaseio.com",
   projectId: "thinkpiece-4fd73",
-  storageBucket: "",
+  storageBucket: "thinkpiece-4fd73.appspot.com",
   messagingSenderId: "679083449584",
   appId: "1:679083449584:web:ce301df5abca446c"
 };
